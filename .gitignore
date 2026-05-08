@@ -13,7 +13,6 @@ data/
 # Large outputs
 output/map.html
 output/RESEARCH_REPORT.*
-output/research/
 
 # Environment
 .env

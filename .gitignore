@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.eggs/
+*.egg-info/
+dist/
+build/
+
+# Data (not published — download from EPA/CDC/Census)
+data/
+
+# Large outputs
+output/map.html
+output/RESEARCH_REPORT.*
+output/research/
+
+# Environment
+.env
+.venv/
+venv/

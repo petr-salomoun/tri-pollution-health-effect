@@ -1,5 +1,7 @@
 # Living Next to a Factory Is Making You Sick — Or Is It?
 
+> **Read the full illustrated analysis:** [petr-salomoun.github.io/posts/2026/05/08/tri-pollution-health-effect/](https://petr-salomoun.github.io/posts/2026/05/08/tri-pollution-health-effect/)
+
 *An investigation of 11 years of US toxic pollution data — and what it really reveals about industry, poverty, race, and health*
 
 ---
